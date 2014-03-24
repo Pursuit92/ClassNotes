@@ -157,6 +157,8 @@
 	separate later subject entries
   * *Subject Entries*: places where the subject enters or returns
 
+## Vocal Music
+
 ### Major Vocal Genres
 
 #### Opera
@@ -181,3 +183,69 @@
   * Can be secular, but more often religious
   * Bach's sacred cantatas were used as part of worship in the Lutheran
 	church
+
+# Classical
+
+## Introduction
+
+  * Term "classical" not applied until the later period (Romantic) to
+	differentiate the styles
+  * Focus primarily rests in Vienna with three important composers:
+    * Franz Joseph Haydn (1732 - 1809)
+	* Wolfgang Amadeus Mozart (1756 - 1791)
+	* Ludwig van Beethoven (1770 - 1820)
+
+## Sociological Environment
+  
+  * The age of *Enlightenment*
+    * Critical questioning of traditional institutions, customs, and
+	  standards of conduct
+	* emphasis on "rational thought" and "natural law"
+  * Origins of the concepts of democratic rule, "civil" right, and the
+	value of the "common" man
+
+### Extension to Music
+  
+  * Music should fulfill the needs of all society, be approachable,
+	simple, and nartural
+  * composers generall rejected the complexity and rigidity of late
+	Baroque music
+  * Musical emphasis placed on simplicity, clarity, "natural sounding"
+	melody, and having *pleasing variety*
+  
+#### Examples of "Pleasing Variety"
+
+  * Rhythm
+    * varies from one theme to the next
+	* sometimes music may pause
+  * Dynamics
+    * portions of the same movement vary from loud to soft and in
+	  between
+	* music may gradually increase or decrease in volume (crescendo &
+	  decrescendo)
+  * Tone color
+    * various mixtures of instruments
+	* contrasting themes often carried by different insturments
+  * Melody
+    * emphasis on "natural" tunes
+	* clarity of melodies
+
+## Instrumental Genres
+
+  * *Symphony* - 4 (sometimes 3) movement work for full orchestra -
+	perfected by Haydn
+  * *Concerto* - 3 movement work for solo instrument and full orchestra;
+	most often with piano or violin solo
+  * *String Quartet* - 4 movement work for small chamber ensemble; 2
+	violins, viola, and cello
+  * *Sonata* - 3 or 4 movement work for piano solo, or another solo
+	instrument plus piano accompaniment
+
+## Notable Music
+
+  * Mozart - Symphony - Symphony No. 40 in G Minor, K. 550 (Movement I)
+  * Haydn - Symphony - Symphony No. 95 in C Minor (Movements III and IV)
+  * Mozart - Piano Concerto - Piano Concerto in A, K. 488 (Movement I)
+  * Mozart - Opera - Don Giovanni (Act I: Duet "La ci daram la mano")
+  * Beethoven - Symphony - Symphony No. 5 in C Minor (Movements I and
+	III)
