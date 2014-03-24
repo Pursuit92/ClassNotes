@@ -249,3 +249,58 @@
   * Mozart - Opera - Don Giovanni (Act I: Duet "La ci daram la mano")
   * Beethoven - Symphony - Symphony No. 5 in C Minor (Movements I and
 	III)
+
+## Sonata Form
+
+### Exposition
+
+  1. First theme
+    * in tonic key
+  1. Second theme
+    * in related key, usually dominant key or major/minor
+  1. Cadence section
+  1. Usually repeated
+
+### Development
+
+  * first and second themes developed
+  * themes are broken apart and manipulated
+  * harmony unstable
+  * modulates quickly into many keys
+  * ends with retransition
+
+### Recapitulation
+
+  1. First theme
+    * In tonic key (bridge section)
+  1. Second theme
+    * usually in tonic key like first theme
+  1. cadence section
+
+## Concerto
+
+### Double Exposition Sonata Form
+  
+  * A variation of sonata form used in the first movement of a concerto
+  * two different expositions instead of a repeat of the first
+  * soloist enters during second
+  * change of key (modulation) held off till second
+  * *Example*: Mozart - Piano Concerto in A, K. 488 (movement I)
+
+## Opera Buffa
+
+  * Italian comic opera, *Opera Seria* describes Italian "serious" opera
+  * became popular in the classical period
+  * based on comic plots that feature more "natural" contemporary
+	situations
+  * *Example*: Mozart - Don Giovanni
+
+## Ludwig van Beethoven (1770 - 1827)
+
+  * transitional figure
+  * studied with Haydn
+  * struggled with disability
+  * greater demands on performers
+  * orchestra size expanded
+  * Example: Symphony No. 5 in C minor, Op. 67 (1808)
+
