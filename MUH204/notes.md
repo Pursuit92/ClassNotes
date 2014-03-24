@@ -112,7 +112,7 @@
 	written to tell a story, evoke a scene or emotion, or other
 	extra-musical association
 
-### Major Genres
+### Major Instrumental Genres
 
 #### The Suite
 
@@ -144,3 +144,40 @@
     * in whole or in part
 	* in various keys
 	* usually in full and in tonic key to end piece
+
+### The Fugue
+  
+  * *Fugue*: a composition for a fixed number of instrumental/voice
+	lines (usually 3 or 4) written in immitative polyphony built on one
+	main line
+  * *Subject*: the main theme
+  * *Countersubject*: other material heard in counterpoint
+  * *Exposition*: Opening which introduces the subject in all voices
+  * *Episode*: passages of music which occur after the exposition and
+	separate later subject entries
+  * *Subject Entries*: places where the subject enters or returns
+
+### Major Vocal Genres
+
+#### Opera
+  
+  * Lengthy staged dramatic production with the characters singing -
+	usually secular
+  * Includes solo singers, full orchestra, chorus, scenery, and costumes
+
+#### Oratorio
+
+  * Lengthy unstaged semidramatic production with characters singing -
+	usually religious, but primarily as entertainment as opposed to
+	worship
+  * Includes solo singers, full orchestra, and chorus, but no scenery or
+	costumes
+
+#### Cantata
+
+  * Short or moderate length unstaged nondramatic work
+  * May include one or more solo singers, smaller ensemble of
+	instruments, and chorus
+  * Can be secular, but more often religious
+  * Bach's sacred cantatas were used as part of worship in the Lutheran
+	church
